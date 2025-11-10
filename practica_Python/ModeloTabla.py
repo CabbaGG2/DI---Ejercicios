@@ -10,11 +10,17 @@ class ModeloTabla (QAbstractTableModel):
     def data (self,indice,rol):
         if rol == Qt.ItemDataRole.DisplayRole:
             return self.tabla [indice.row()][indice.column()]
+        #muestra en azul los datos de los hombres y rosados las mujeres
         if rol == Qt.ItemDataRole.BackgroundRole:
             if self.tabla[indice.row()][2] == "M":
                 return QtGui.QColor('lightblue')
             elif self.tabla[indice.row()][2] == "F":
                 return QtGui.QColor('pink')
+        #MNuestra en rojo el texto de la gente que ha fallecido
+        if rol == Qt.ItemDataRole.ForegroundRole:
+            if self.tabla[indice.row()][3] == True:
+                if (indice.column() == 3):
+                    return QtGui.QColor('red')
 
     #El metodo rowCount cuanta las cantidad de columnas del modelo cuando es llamada en una interfaz (la vista sabe cuantas filas va a representar)
     def rowCount(self, indice):
