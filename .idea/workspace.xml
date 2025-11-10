@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practica_Python/CajaQTColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_Python/EjemploGridQT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_Python/EjercicioQTInterfaz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_Python/EjercicioQTListasVariadas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_Python/ModeloLista.py" afterDir="false" />
+    <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="interfaces con QT mas complejas.">
+      <change afterPath="$PROJECT_DIR$/practica_Python/EjemploInterfazComplejaQT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica_Python/ModeloTabla.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practica_Python/saludoQT.py" beforeDir="false" afterPath="$PROJECT_DIR$/practica_Python/saludoQT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.CajaQTColor.executor": "Run",
     "Python.EjemploGridQT.executor": "Run",
+    "Python.EjemploInterfazComplejaQT.executor": "Run",
     "Python.EjercicioQTInterfaz.executor": "Run",
     "Python.EjercicioQTListasVariadas.executor": "Run",
     "Python.ModeloLista.executor": "Run",
@@ -66,6 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/dam/SXE/SXE_Tarea11_ServicioOdoo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -89,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1758537149454</updated>
     </task>
+    <task id="LOCAL-00001" summary="interfaces con QT mas complejas.">
+      <option name="closed" value="true" />
+      <created>1762420468271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762420468271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="interfaces con QT mas complejas." />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces con QT mas complejas." />
   </component>
 </project>
