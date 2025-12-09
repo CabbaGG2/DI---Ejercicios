@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="interfaces con QT mas complejas.">
-      <change afterPath="$PROJECT_DIR$/practica_Python/EjemploInterfazComplejaQT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practica_Python/ModeloTabla.py" afterDir="false" />
+    <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="ejemplo de QT con Box escondido por ahi jajaja.">
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/ExamenQT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/pruebaQTCreator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repasoQT/.idea/REPASO_DI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repasoQT/.idea/REPASO_DI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repasoQT/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repasoQT/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +56,48 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Actividad6_QT.executor": "Run",
     "Python.CajaQTColor.executor": "Run",
+    "Python.EJERCICIO-COLUMNAS.executor": "Run",
+    "Python.EJERCICIO1-INTERFAZ.executor": "Run",
+    "Python.EJERCICIO1.executor": "Run",
+    "Python.EJERCICIO2-INTERFAZ.executor": "Run",
+    "Python.EJERCICIO2.executor": "Run",
+    "Python.EJERCICIO4.executor": "Run",
+    "Python.EJERCICIO5.executor": "Run",
+    "Python.EJERCICIO6.executor": "Run",
     "Python.EjemploGridQT.executor": "Run",
     "Python.EjemploInterfazComplejaQT.executor": "Run",
     "Python.EjercicioQTInterfaz.executor": "Run",
     "Python.EjercicioQTListasVariadas.executor": "Run",
+    "Python.FormularioBasico.executor": "Run",
+    "Python.ListasInteractivas.executor": "Run",
     "Python.ModeloLista.executor": "Run",
+    "Python.ModeloTabla.executor": "Run",
+    "Python.Pestañas-Divisores.executor": "Run",
+    "Python.Selectores.executor": "Run",
+    "Python.TabsEjamplos.executor": "Run",
+    "Python.copia.executor": "Run",
     "Python.ejemplo.executor": "Run",
     "Python.ejemploCaja.executor": "Run",
     "Python.ejercicio2.4.executor": "Run",
     "Python.ejercicio7.1.executor": "Run",
+    "Python.esqueleto.executor": "Run",
+    "Python.exameDI16112025Balumnos.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.pruebaQTCreator.executor": "Run",
     "Python.saludoFiestaSegundaria.executor": "Run",
     "Python.saludoQT.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/dam/SXE/SXE_Tarea11_ServicioOdoo",
+    "last_opened_file_path": "/home/dam/SXE/Tarea15_OdooPrimerModulo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practica_Python" />
       <recent name="$PROJECT_DIR$/practica_Python/.venv/lib" />
     </key>
   </component>
@@ -95,11 +124,38 @@
       <option name="project" value="LOCAL" />
       <updated>1762420468271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="interfaces con QT complejas utilizando listas, radio buttons y tablas.">
+      <option name="closed" value="true" />
+      <created>1762781837436</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762781837436</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mejoras en el modelo de la tabla.">
+      <option name="closed" value="true" />
+      <created>1762782028482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762782028482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejemplo de QT con Box escondido por ahi jajaja.">
+      <option name="closed" value="true" />
+      <created>1762782116338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762782116338</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="interfaces con QT mas complejas." />
-    <option name="LAST_COMMIT_MESSAGE" value="interfaces con QT mas complejas." />
+    <MESSAGE value="interfaces con QT complejas utilizando listas, radio buttons y tablas." />
+    <MESSAGE value="mejoras en el modelo de la tabla." />
+    <MESSAGE value="ejemplo de QT con Box escondido por ahi jajaja." />
+    <option name="LAST_COMMIT_MESSAGE" value="ejemplo de QT con Box escondido por ahi jajaja." />
   </component>
 </project>
