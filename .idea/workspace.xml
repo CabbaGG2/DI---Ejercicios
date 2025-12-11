@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="ejemplo de QT con Box escondido por ahi jajaja.">
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/ExamenQT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenQT/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/pruebaQTCreator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repasoQT/.idea/REPASO_DI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repasoQT/.idea/REPASO_DI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repasoQT/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repasoQT/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenQT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/form.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/form.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/pruebaQTCreator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas_QT/ProjectoQTCreator/pruebaQTCreator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,48 +45,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Actividad6_QT.executor": "Run",
-    "Python.CajaQTColor.executor": "Run",
-    "Python.EJERCICIO-COLUMNAS.executor": "Run",
-    "Python.EJERCICIO1-INTERFAZ.executor": "Run",
-    "Python.EJERCICIO1.executor": "Run",
-    "Python.EJERCICIO2-INTERFAZ.executor": "Run",
-    "Python.EJERCICIO2.executor": "Run",
-    "Python.EJERCICIO4.executor": "Run",
-    "Python.EJERCICIO5.executor": "Run",
-    "Python.EJERCICIO6.executor": "Run",
-    "Python.EjemploGridQT.executor": "Run",
-    "Python.EjemploInterfazComplejaQT.executor": "Run",
-    "Python.EjercicioQTInterfaz.executor": "Run",
-    "Python.EjercicioQTListasVariadas.executor": "Run",
-    "Python.FormularioBasico.executor": "Run",
-    "Python.ListasInteractivas.executor": "Run",
-    "Python.ModeloLista.executor": "Run",
-    "Python.ModeloTabla.executor": "Run",
-    "Python.Pestañas-Divisores.executor": "Run",
-    "Python.Selectores.executor": "Run",
-    "Python.TabsEjamplos.executor": "Run",
-    "Python.copia.executor": "Run",
-    "Python.ejemplo.executor": "Run",
-    "Python.ejemploCaja.executor": "Run",
-    "Python.ejercicio2.4.executor": "Run",
-    "Python.ejercicio7.1.executor": "Run",
-    "Python.esqueleto.executor": "Run",
-    "Python.exameDI16112025Balumnos.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pruebaQTCreator.executor": "Run",
-    "Python.saludoFiestaSegundaria.executor": "Run",
-    "Python.saludoQT.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/dam/SXE/Tarea15_OdooPrimerModulo",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Actividad6_QT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CajaQTColor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO-COLUMNAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO1-INTERFAZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO2-INTERFAZ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EJERCICIO6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjemploGridQT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjemploInterfazComplejaQT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjercicioQTInterfaz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EjercicioQTListasVariadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FormularioBasico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListasInteractivas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModeloLista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModeloTabla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pestañas-Divisores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selectores.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TabsEjamplos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.copia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejemploCaja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio2.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.esqueleto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exameDI16112025Balumnos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pruebaQTCreator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.saludoFiestaSegundaria.executor&quot;: &quot;Run&quot;,
+    &quot;Python.saludoQT.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dam/SXE/Tarea15_OdooPrimerModulo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/practica_Python" />
