@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5dae45e-ffb5-4d53-96bd-6a0e99bd7189" name="Changes" comment="uso de controladores con elementos creados en un projecto realizado con QTCreator">
-      <change afterPath="$PROJECT_DIR$/Reportes/.idea/Reportes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reportes/Tablas/EjemploTablaFactura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reportes/Tablas/tablasPlatypusPdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reportes/ejemploPlatypus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reportes/ejemploTextoCanvas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reportes/ejemploUsoDrawing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graficos/Charts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reportes/ejemploPlatypus.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Reportes/ejemploPlatypus.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reportes/ejemploPlatypus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Reportes/ejemploPlatypus.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Actividad6_QT.executor": "Run",
     "Python.CajaQTColor.executor": "Run",
+    "Python.Charts.executor": "Run",
     "Python.EJERCICIO-COLUMNAS.executor": "Run",
     "Python.EJERCICIO1-INTERFAZ.executor": "Run",
     "Python.EJERCICIO1.executor": "Run",
